@@ -1,0 +1,10 @@
+10x Handles
+20x Handle Bolts
+60x Nuts
+1x Top Centre Front
+1x Top Centre Back
+
+Infill: 20%
+Mass: 298g
+Length: 37.65m
+Time: 1 Day 5 Hours 18 Minutes

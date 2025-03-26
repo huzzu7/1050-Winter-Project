@@ -1,0 +1,10 @@
+1x Particle Filtration Assembly
+1x Particle Filtration Drawer
+1x Particle Filtration Component Cover
+
+Infill:10%
+Top & Bottom Thickness: 1.2mm
+Wall Thickness: 1.4mm
+Mass: 286g
+Length: 36.17g
+Time: 1 Day 5 Hours 52 Minutes

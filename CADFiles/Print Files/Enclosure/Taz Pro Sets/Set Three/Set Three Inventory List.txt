@@ -1,0 +1,6 @@
+1x Top Left
+
+Infill: 20%
+Mass: 132g
+Length: 16.66m
+Time: 11 Hours 18 Minutes

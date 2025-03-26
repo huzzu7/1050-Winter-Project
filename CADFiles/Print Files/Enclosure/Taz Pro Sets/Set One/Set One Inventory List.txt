@@ -1,0 +1,15 @@
+10x Swivel Locks
+10x Static Attachment Brackets
+4x Top Corner Brackets
+4x Bottom Corner Brackets
+2x Top Panel Holders
+2x Left Frame Hooks
+1x Right Frame Hooks
+7x Top Hooks
+3x Right Hooks
+2x Left Hooks
+
+Infill: 20%
+Mass: 335g
+Length: 42.30m
+Time: 1 Day 14 Hours 22 Minutes

@@ -30,5 +30,4 @@ The materials used to build this enclosure can be found globally online and at h
 
 [Raiden Miyata](https://www.linkedin.com/in/raiden-miyata-463876346/)
 
-[Abbey Jackson]
-(http://linkedin.com/in/abbey-jackson-836358354/)
+[Abbey Jackson](http://linkedin.com/in/abbey-jackson-836358354/)
